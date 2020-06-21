@@ -2,6 +2,15 @@ body {
     background-color: #000;
   }
 
+h1 {
+    font-size: 4em;
+    text-shadow: 2px 2px 10px black;
+}
+
+.text-muted {
+  font-size: 0em;
+}
+
 #landing-header {
     z-index: 1;
     position: relative;
@@ -41,10 +50,10 @@ body {
 
 
   .slideshow li:nth-child(1) { 
-    background-image: url(https://images.pexels.com/photos/919/night-dark-hotel-luxury.jpg) 
+    background-image: url(https://images.unsplash.com/photo-1529169436040-836f3d93f0f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) 
   }
   .slideshow li:nth-child(2) { 
-    background-image: url(https://images.pexels.com/photos/346271/exposure-long-photography-rotterdam-346271.jpeg);
+    background-image: url(https://images.unsplash.com/photo-1516531558361-f6c4c956ad85);
     animation-delay: 10s; 
   }
   .slideshow li:nth-child(3) { 

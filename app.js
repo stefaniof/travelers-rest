@@ -6,10 +6,9 @@ var express         = require("express"),
     passport        = require("passport"),
     LocalStrategy   = require("passport-local"),
     methodOverride  = require("method-override"),
-    Hotel      = require("./models/hotels.js"),
+    Hotel           = require("./models/hotels.js"),
     Comment         = require("./models/comment"),
-    User            = require("./models/user"),
-    seedDB          = require("./seeds");
+    User            = require("./models/user");
 
 // requiring routes
 var commentRoutes       = require("./routes/comments"),

@@ -3,6 +3,8 @@ Yelp-like app, which allows users to add and review hotels around the globe. Dev
 
 ## Live Demo
 This app is a full-stack Node.js project, which you can see live here: https://travelers-rest.herokuapp.com/
+![Landing page](https://github.com/stefaniof/travelers-rest/blob/master/img/landing.jpg)
+
 
 ## Features
 
@@ -31,7 +33,7 @@ This app is a full-stack Node.js project, which you can see live here: https://t
 
 * Responsive web design.
 
-
+![Homepage](https://github.com/stefaniof/travelers-rest/blob/master/img/homepage.jpg)
 
 ## Technologies used
 
